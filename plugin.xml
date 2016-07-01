@@ -4,7 +4,7 @@
  Licensed under the Apache License, Version 2.0.  See License.txt in the project root for license information.
 -->
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="com.microsoft.azure-mobile-services"
+           id="com.microsoft.azure-mobile-services-lb"
       version="1.2.9">
     <name>Windows Azure Mobile Services</name>
     <description>Exposes JavaScript api to access an Azure Mobile Services instance</description>
